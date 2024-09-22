@@ -1,7 +1,5 @@
 # TokenERC20Mintable
 
-Endereço do contrato na rede Sepolia: 0x82CC3A26B5D4d29BD06Fe6865C61A8BBcdf80Db8
-
 ## Descrição
 
 Este repositório contém o código do GHBToken, um token ERC20 Mintable na blockchain Ethereum. Ele foi desenvolvido seguindo o padrão ERC20, permitindo a criação, transferência e queima de tokens. O projeto inclui também funções de permissão para terceiros através de `allowance`, além das funções de `mint` e `burn`, que podem ser executadas apenas pelo proprietário do contrato. O endereço do contrato na testnet Sepolia é `0x82CC3A26B5D4d29BD06Fe6865C61A8BBcdf80Db8`
