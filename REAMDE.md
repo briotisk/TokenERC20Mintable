@@ -1,1 +1,0 @@
-Endereço do contrato na rede Sepolia: 0x82CC3A26B5D4d29BD06Fe6865C61A8BBcdf80Db8
